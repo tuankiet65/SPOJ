@@ -1,0 +1,10 @@
+program factor;
+var n, i: longint;
+    facto: int64;
+begin
+ read(n);
+ facto:=1;
+ for i:=2 to n do facto:=facto*i;
+ while facto mod 10=0 do facto:=facto div 10;
+ write(facto mod 10);
+end.
