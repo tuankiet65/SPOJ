@@ -1,0 +1,1 @@
+var i:word;begin for i:=1to 867do write('VNOI')end.
