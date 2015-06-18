@@ -1,0 +1,1 @@
+print("VNOI"*408,end="")
