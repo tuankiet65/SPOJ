@@ -1,0 +1,1 @@
+var i: longint; begin for i:=1 to 1020 do write('VNOI') end.
